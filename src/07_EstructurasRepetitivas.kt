@@ -40,7 +40,7 @@ fun main(){
     buclePrincipal@ for (num in i .. 10){
         for (num2 in 1..5){
             if (num == num2){
-                break@buclePrincipal
+                break@buclePrincipa
             }
         }
     }
